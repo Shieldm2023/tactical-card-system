@@ -5,7 +5,7 @@ import MapSetup from './components/MapSetup';
 function App() {
   return (
     <div className="App">
-      <MapSetup/>
+      <CardDrawingSystem/>
     </div>
   );
 }
