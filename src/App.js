@@ -5,7 +5,7 @@ import SquadTacticsGame from './components/MapSetup';
 function App() {
   return (
     <div className="App">
-      <SquadTacticsGame/>
+      <CardDrawingSystem/>
     </div>
   );
 }
